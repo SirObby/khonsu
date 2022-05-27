@@ -1,0 +1,4 @@
+*.lib
+*.o
+.vscode
+config.json
